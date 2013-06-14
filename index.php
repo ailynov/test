@@ -1,2 +1,2 @@
-<?php echo 'git suckssssss';
+<?php echo 'git sucks!';
 

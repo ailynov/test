@@ -1,5 +1,5 @@
 <?php
 phpinfo();
 echo 'hi post receive!';
-echo 'hi post receive! W branch--2';
+echo 'hi post receive! Hi master!';
 

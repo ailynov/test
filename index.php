@@ -1,6 +1,6 @@
 <?php
 phpinfo();
-echo 'test22asf';
+echo '13';
 echo 'key!';
 echo '=-=-=-=-=-=-=-=-=-';
 echo 'write mode 2';

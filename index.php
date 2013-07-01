@@ -1,6 +1,6 @@
 <?php
 phpinfo();
-echo '13';
+echo 'finally! You, son of a bitch xDD';
 echo 'key!';
 echo '=-=-=-=-=-=-=-=-=-';
 echo 'write mode 2';
